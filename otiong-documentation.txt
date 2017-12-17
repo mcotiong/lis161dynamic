@@ -1,0 +1,36 @@
+Project / Website Title:
+Pastimes
+
+Introduction:
+The site aims to create a healthy Discord community for people who see video and online games as pastimes. This site will serve as a database for the moderators to track member count, and especially misbehavior. Also, the site will serve as a security measure to prevent the members from joining and sharing the discord server link without logging-in this database.
+
+Developer:
+	Name: Mark Renz C. Otiong
+	Contact Info: 09160122338/markrenzotiong@gmail.com
+	
+Intended User / Client:
+	Players who seek companion and a community to interact with.
+
+Site Design:
+
+I. Structure or Site Map
+	Home
+	About
+	Members (the database)
+	Logout
+
+II. Functional Requirements
+	A log-in and register function to regulate people who would be joining the Discord server. This is also to keep track of the members using the database.
+The site also include a search button inorder to easily find if a username, email, discord name still exists in the database. (Users can change their names within Discord, this is just to prevent confusion, or when in times that sanctions needs to be done.)
+
+Project Timeline and Deadline:
+
+
+	Activities				Date
+	Planning			Saturday, Dec. 8, 2017
+	Development			Monday, Dec. 8, 2017 - Tuesday, Dec. 12, 2017
+	Documentation			Tuesday, Dec. 12, 2017
+	Submission			Tuesday, Dec. 12, 2017
+
+Source Codes:
+	w3schools template as well as the its built in div commands
